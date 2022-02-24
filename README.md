@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
--  I am currently the Data Product Manager (Data Analyst Lead) at **JPMorgan chase & Co**.
+-  I am currently the technology, product, and data leader
 
 - I have worked on some amazing project such as building a **Natural Language Processing Chatbot** for our the chase firmwide **Risk and Control Data Reservoir** with some of the brightest software engineers.
 - I am currently on my **cloud journey and studying for my AWS Solutions Architect certificate** (the goal is to be multicloud certified).
